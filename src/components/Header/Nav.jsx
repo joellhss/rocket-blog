@@ -23,7 +23,7 @@ export function Nav() {
                     placeholder="Buscar"
                     className="bg-purple-700 py-3 pl-6 text-purple-100 rounded-l-lg outline-none tablet:max-w-[250px] laptop:max-w-none"
                     />
-                    <a href="" className="bg-purple-300 py-2 px-5 rounded-r-lg hover:bg-purple-100 transition-colors text-purple-100 hover:text-purple-300">
+                    <a href="" className="bg-purple-300 py-2 px-5 rounded-r-lg hover:bg-purple-400 text-purple-100 transition-colors">
                     <MagnifyingGlass size={32} weight="light"/>
                     </a>
                 </div>

@@ -12,13 +12,13 @@ export function Footer() {
                 </div>
                 <div className="flex gap-6 justify-center">
                     <a href="">
-                        <GithubLogo size={32} weight="fill" className="text-purple-100"/>
+                        <GithubLogo size={32} weight="fill" className="text-purple-100 hover:text-green-500 transition-colors"/>
                     </a>
                     <a href="">
-                        <LinkedinLogo size={32} weight="fill" className="text-purple-100"/>
+                        <LinkedinLogo size={32} weight="fill" className="text-purple-100 hover:text-green-500 transition-colors"/>
                     </a>
                     <a href="">
-                        <InstagramLogo size={32} weight="fill" className="text-purple-100"/>
+                        <InstagramLogo size={32} weight="fill" className="text-purple-100 hover:text-green-500 transition-colors"/>
                     </a>
                 </div>
             </div>
