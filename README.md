@@ -1,6 +1,6 @@
 # Olá :happy:
 
-## Esta página foi desenvolvida utilizando as seguintes tecnologias:
+## Este projeto front-end foi desenvolvido utilizando as seguintes tecnologias:
 
 * HTML
 * CSS
@@ -10,3 +10,4 @@
 * PostCSS
 * Vite
 
+Visualize o projeto em: https://rocket-blog-woad.vercel.app/
